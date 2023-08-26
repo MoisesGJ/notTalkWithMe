@@ -3,4 +3,4 @@ node_modules/
 .wwebjs_cache/
 .env
 src/test.js
-src/assets
+src/assets/*
